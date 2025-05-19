@@ -16,5 +16,5 @@
 13. 大檔上傳需要根據使用到的API再去進行跳轉機制的修改，REVERT/RESTORE
 14. git 可以解決現在像是亞璇不能看之前華銀專案的問題，例如只開瀏覽權限給他，這樣也不用擔心她會改到甚麼
 15. code review 基本上現在是在GITHUB上做是最好，他幫你整理好每次COMMIT的變動，以及對方的註解，但前提就是開發人員的 COMMIT 要做好，該次的檔案該次的說明註解等
-16. 學會使用linter, prettier，或是 VS 的環境規則設定
+16. 學會使用linter, prettier，或是 VS 的環境規則設定`,linter setting learn
 17. 如何撰寫好的 function, HOF, low coupling
