@@ -18,3 +18,4 @@
 15. code review 基本上現在是在GITHUB上做是最好，他幫你整理好每次COMMIT的變動，以及對方的註解，但前提就是開發人員的 COMMIT 要做好，該次的檔案該次的說明註解等
 16. 學會使用linter, prettier，或是 VS 的環境規則設定`,linter setting learn
 17. 如何撰寫好的 function, HOF, low coupling
+18. typescript, eslint slide
