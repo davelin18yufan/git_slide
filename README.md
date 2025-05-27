@@ -18,5 +18,5 @@
 16. 學會使用linter, prettier，或是 VS 的環境規則設定`,linter setting learn
 17. 如何撰寫好的 function, HOF, low coupling
 18. typescript, lint slide.
-19. input ui component with autocomplete
+19. input ui component with autocomplete.
 20. 包裝 LIB 成 NPM
