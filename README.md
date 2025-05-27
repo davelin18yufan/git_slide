@@ -19,4 +19,4 @@
 17. 如何撰寫好的 function, HOF, low coupling
 18. typescript, lint slide.
 19. input ui component with autocomplete.
-20. 包裝 LIB 成 NPM
+20. 包裝 LIB 成 NPM.
