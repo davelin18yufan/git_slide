@@ -16,7 +16,7 @@
 15. code review 基本上現在是在GITHUB上做是最好，他幫你整理好每次COMMIT的變動，以及對方的註解，但前提就是開發人員的 COMMIT 要做好，該次的檔案該次的說明註解等
 16. 學會使用linter, prettier，或是 VS 的環境規則設定`,linter setting learn
 17. 如何撰寫好的 function, HOF, low coupling
-18. typescript, lint slide.
+18. **typescript, lint slide.**
 19. input ui component with autocomplete.
 20. 包裝 LIB 成 NPM.
 21. 如果API發出之後快速切換頁面或是馬上發送下一筆API需要考慮上一筆是否需要取消，可以減少後端負荷，使用 `abortController`,如果是動態路由則是抓取規則並且abortAll
