@@ -19,4 +19,4 @@
 18. **typescript, lint slide.**
 19. input ui component with autocomplete.
 20. 包裝 LIB 成 NPM.
-21. 如果API發出之後快速切換頁面或是馬上發送下一筆API需要考慮上一筆是否需要取消，可以減少後端負荷，使用 `abortController`,如果是動態路由則是抓取規則並且abortAll
+21. 如果API發出之後快速切換頁面或是馬上發送下一筆API需要考慮上一筆是否需要取消，可以減少後端負荷，使用 `abortController`,如果是動態路由則是抓取規則並且abortAll()
